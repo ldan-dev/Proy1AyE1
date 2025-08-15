@@ -1,5 +1,7 @@
 # Proy1AyE1
 
+--- 
+
 ````
 Proy1AyE1/
 ├── src/               # Archivos fuente (.c)
@@ -17,4 +19,6 @@ Proy1AyE1/
 ├── Makefile           # Script de construcción para automatizar compilación
 ├── README.md          # Descripción del proyecto
 └── .gitignore         # Archivos y carpetas que git debe ignorar
-```
+````
+
+---
