@@ -29,6 +29,10 @@
 
 --- 
 
+Alumnos:
+- Leonardo Daniel Aviña Neri
+- 
+
 ````
 Proy1AyE1/
 ├── src/               # Archivos fuente (.c)
